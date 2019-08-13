@@ -88,7 +88,7 @@
         @yield('content')
         <div class="dapos-loading"></div>
     </div>
-
+    <!-- Test -->
     <!-- Scripts -->
     @yield('scripts')
 </body>
